@@ -1,0 +1,1 @@
+del /q/s *.o *.hex *.bin *.idb *.pdb *.pch *.obj *.lst *.opt *.m51 *.bak *.lnp *.plg *.ncb *.pfi *.po *.rr *.pri *.psc *.__i *.a51 *.IAB *.IAD *.IMB *.IMD *.PR *.PS *.WK3 *.DBG *.ilk *.sbr *.sdf *.ipch *.bsc BuildLog.htm *.dep *.manifest *.mac *.log *.wrn *.tlog *.lastbuildstate

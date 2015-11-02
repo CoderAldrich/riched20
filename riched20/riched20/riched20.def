@@ -1,0 +1,18 @@
+LIBRARY "Riched20"
+;DESCRIPTION 'RichEdit Ver 5 DLL'
+EXPORTS
+          IID_IRichEditOle            @2 PRIVATE
+          IID_IRichEditOleCallback    @3 PRIVATE
+          CreateTextServices          @4 PRIVATE
+          IID_ITextServices           @5 PRIVATE
+          IID_ITextHost               @6 PRIVATE
+          IID_ITextHost2              @7 PRIVATE
+          ;REExtendedRegisterClass     @8 PRIVATE
+          ;RichEditANSIWndProc         @9 PRIVATE
+          ;RichEdit10ANSIWndProc       @10 PRIVATE
+          ;SetCustomTextOutHandlerEx   @11 PRIVATE
+          ;DllGetVersion               @12 PRIVATE
+          ;RichEditWndProc             @13 PRIVATE
+          ;RichListBoxWndProc          @14 PRIVATE
+          ;RichComboBoxWndProc         @15 PRIVATE         
+          ;IID_ITextHostEx             @16 PRIVATE
